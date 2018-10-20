@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GeoTag</string>
+    <string name="font_roboto_medium">sans-serif-medium</string>
+    <string name="font_roboto_light">sans-serif-light</string>
+    <string name="font_roboto_regular">sans-serif</string>
+    <string name="font_roboto_black">sans-serif-black</string>
+</resources>
